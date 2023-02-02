@@ -14,7 +14,8 @@ export  function Groups() {
       'Feira de Adoção de Cobra Coral',
       'Equipe de Som do Wesley Safadão',
       'Gerencia do Carrefour',
-      'Anões do Pânico']);
+      'Anões do Pânico',
+      'Line de Valorant do Kifas']);
 
   return (
     <Container>
